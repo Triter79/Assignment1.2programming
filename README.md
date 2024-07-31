@@ -1,2 +1,3 @@
 # Assignment1.2programming
-Assignments for programing class
+Assignments for programming class
+My first programming class
